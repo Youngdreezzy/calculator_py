@@ -1,5 +1,6 @@
 # A Simple Calculator
 
+
 value1 = float(input('First value: '))
 value2 = float(input('Second value: '))
 
@@ -30,3 +31,4 @@ elif option == '3':
 
 else:
     print('Invalid Option')
+
