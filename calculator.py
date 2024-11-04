@@ -1,4 +1,4 @@
-# A Simple Calculator
+# A Simple basic Calculator
 
 
 value1 = float(input('First value: '))
